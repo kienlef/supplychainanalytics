@@ -58,4 +58,6 @@ Lecture 19: Delivery Route Optimization
 Lecture 20: Delivery Time Prediction
 Lecture 21: Order Fulfillment Analytics - Hunting OTIF
 
+#DataStrategist #DataScience #IOT #BigData #AI #ML #DataTransformation #DataManagement #DataEconomics #DesignThinking #AILiteracy #DataLiteracy #DataMesh #AI4IA #supplychain #supplychainplanning #supplychainmanagement #supplychainanalytics #operationsmanagement #operations #operationsresearch 
+
 
