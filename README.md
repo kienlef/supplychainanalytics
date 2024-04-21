@@ -22,3 +22,40 @@ The making phase utilizes analytics to refine manufacturing processes, from cost
 Lastly, the delivery aspect leverages analytics to enhance customer satisfaction and streamline delivery logistics. This involves using real-time tracking and route optimization algorithms to reduce shipping times and costs.
 
 At the end of this lecture, attendees will possess a thorough grasp of the vast array of analytics applications within supply chain management. You will be introduced to fundamental best practices for your analytics journey. This knowledge aims to enable everyone to back data-driven decisions that boost operational efficiency, cut costs, and elevate customer satisfaction.
+
+# Outline Analytics Cases
+
+### Introduction
+Lecture 1: Supply Chain Analytics Overview
+Lecture 2: Supply Chain Processes Overview
+
+### Analytics Cases: Planning and Inventories
+Lecture 3: Forecasts
+Lecture 4: Inventory Management 
+Lecture 5: Multi Echelon Optimisation
+Lecture 6: Vendor Managed Inventories
+
+
+### Analytics Cases: Production Efficiencies
+
+Lecture 7: Production Scheduling Optimization
+Lecture 8: Batch or Lot Size Optimization
+Lecture 9: Overall Equipment Efficiency - Root Cause Analytics
+Lecture 10: Predictive Maintenance
+Lecture 11: Vision Systems - AI in Quality Assurance
+Lecture 12: Digital Twins
+Lecture 13: Compliance Information - Extraction from Text
+
+### Strategic Layer Analytics
+Lecture 14: Supply Chain Risk - Supplier Risk
+Lecture 15: Supply Chain Segmentation
+Lecture 16: Supply Chain Network Design
+Lecture 17: S&OP Process - Control Tower
+
+### Delivery Performance
+Lecture 18: Transport Costs and Modes
+Lecture 19: Delivery Route Optimization
+Lecture 20: Delivery Time Prediction
+Lecture 21: Order Fulfillment Analytics - Hunting OTIF
+
+
