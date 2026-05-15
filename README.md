@@ -269,12 +269,14 @@ This package should help professionals decide which analytics or AI use cases ar
 
 ---
 
-## Related content
+## Related content and next step
 
-- YouTube playlist: https://www.youtube.com/playlist?list=PL6kUP6-NlVDKnB103rGFrH1AGes5fOeFB
+- Topic page: Supply Chain Analytics — planned at `https://kienlef.github.io/supply-chain-analytics/` after the homepage draft is reviewed and published.
+- YouTube playlist: Supply Chain Analytics — Practical Data Science for Operations — https://www.youtube.com/playlist?list=PL6kUP6-NlVDKnB103rGFrH1AGes5fOeFB
 - GitHub repository: https://github.com/kienlef/supplychainanalytics
+- Free resource / future package: Supply Chain AI Use-Case Map — coming via `https://kienlef.github.io/register/` after the registration path is reviewed and published.
 
-Homepage link will be added after the knowledge hub architecture is decided.
+Recommended path: watch the playlist, read the Supply Chain Analytics topic page once live, inspect the SQL/data-model material in this repository, then use the future use-case map to decide which analytics or AI topics are worth pursuing.
 
 ---
 
